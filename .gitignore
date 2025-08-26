@@ -1,0 +1,8 @@
+# Ignore virtual environment
+venv/
+
+# Ignore cache files
+ff1_cache/
+
+# Ignore PDF files
+*.pdf
