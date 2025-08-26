@@ -104,15 +104,6 @@ The core of this project is a `GradientBoostingRegressor` model. The methodology
 6.  **Hyperparameter Tuning**: `RandomizedSearchCV` is used to efficiently search for the optimal hyperparameters for the `GradientBoostingRegressor`, optimizing for the lowest Mean Squared Error.
 7.  **Training & Evaluation**: The final model is trained on the full training set and evaluated on the test set to measure its real-world performance.
 
-## 🤝 Contributing
-
-Contributions are welcome! If you have ideas for new features, model improvements, or bug fixes, please feel free to:
-1.  Fork the repository.
-2.  Create a new feature branch (`git checkout -b feature/YourAmazingFeature`).
-3.  Commit your changes (`git commit -m 'Add some YourAmazingFeature'`).
-4.  Push to the branch (`git push origin feature/YourAmazingFeature`).
-5.  Open a Pull Request.
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
